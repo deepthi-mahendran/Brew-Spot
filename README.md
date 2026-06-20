@@ -67,7 +67,7 @@ https://deepthi-mahendran.github.io/Brew-Spot/
 
 ### 1. Download the file
 
-Save `cafe.html` to your local machine.
+Save `index.html` to your local machine.
 
 ### 2. Open in a browser
 
